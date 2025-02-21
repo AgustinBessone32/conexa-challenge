@@ -1,0 +1,12 @@
+services:
+  conexa-challenge--db:
+    image: postgres:15.3
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_DB: postgres
+      POSTGRES_PASSWORD: 123456
+    volumes:
+      - ./postgres:/var/lib/postgresql/data
+    ports:
+      - 5434:5432
