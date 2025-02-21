@@ -55,7 +55,7 @@ o
 
 ## Despliegue de Proyecto
 
-El proyecto se encuentra desplegado en esta [URL](https://pagos360-challenge-back.onrender.com/).
+El proyecto se encuentra desplegado en esta [URL](https://conexa-challenge-ngys.onrender.com/).
 Ten en cuenta que esta desplegado en Render y puede que la primera vez demore en cargar o falle ya que hay una limitacion de plan gratuito
 
 ## Instrucciones para ver la documentacion de swagger
